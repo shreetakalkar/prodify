@@ -6,7 +6,7 @@ Prodify is a web-based Admin Dashboard built with React.js & Material-UI for man
 
 Features
 
-✅ View Products – Fetches product list from MongoDB.✅ Sync Shopify – Syncs product data with Shopify in real-time.✅ Secure Authentication – Uses JWT for API security.✅ Modern UI – Clean Material-UI design with smooth interactions.
+ View Products – Fetches product list from MongoDB. Sync Shopify – Syncs product data with Shopify in real-time.Secure Authentication – Uses JWT for API security. Modern UI – Clean Material-UI design with smooth interactions.
 
 Tech Stack
 
